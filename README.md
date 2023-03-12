@@ -45,5 +45,5 @@ Are you ready? let's get started
 * [Week 03: Design Thinking photoshop , illustrator setup](assets/weeks/beginner/week03.md)
 * [Week 04: Start photoshop course](assets/weeks/beginner/week04.md)
 * [Week 05: start illustrator course](assets/weeks/beginner/week05.md)
-* [Week 06: finish Photoshop , illustrator Basics ](assets/weeks/week06.md)
+* [Week 06: finish Photoshop , illustrator Basics ](assets/weeks/beginner/week06.md)
 

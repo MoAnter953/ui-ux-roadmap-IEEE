@@ -1,22 +1,15 @@
-# Week 1: What is Flutter?
+# Week 1: The Principles of Design?
 
 ## Content:
 
-- Flutter Basics:
+- The Principles of Design | FREE COURSE 
+    [https://www.youtube.com/watch?v=9EPTM91TBDU&ab_channel=EnvatoTuts%2B)
+- article - **[The Simple Difference Between UX, UI, and Graphic Design](https://interworks.com/blog/smacadamia/2020/01/20/the-simple-difference-between-ux-ui-graphic-design/#:~:text=Unlike%20UX%20or%20UI%20design%2C%20however%2C%20graphic%20design,all%20are%20helpful%20for%20communicating%20with%20your%20audience.)** 
+- **[Use miro](https://youtu.be/mNNPchRnDp8)** 
+- google ux design professional certificate finantial aid 
     
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3](https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3)
-    
-- Chapter 1: Wekcome
-    
-    [https://fluttercompletereference.com/preview/flutter_reference.pdf](https://fluttercompletereference.com/preview/flutter_reference.pdf)
-    
-
 ## Tasks:
 
-Please, answer the following questions on paper, hand-written, in much details as you can:
-
-- What is Flutter?
-- How can Flutter build apps for different platform using one codebase?
-- What is meant by: directory, package, library, framework, SDK, IDE?
-- What is widget? Give as many examples as you can.
-- What is state? and What is the difference between stateless and stateful widgets?
+- Summarize The Principles of Design | FREE COURSE on miro
+- Read and Summarizethe article on your miro
+- google ux design professional certificate finantial aid "14 days"

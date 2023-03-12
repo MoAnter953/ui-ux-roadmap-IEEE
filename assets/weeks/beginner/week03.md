@@ -1,25 +1,15 @@
-# Week 3: Basics Review
+# Week 3: Design Thinking photoshop , illustrator setup
 
 ## Content:
+- **[Design Thinking](https://www.youtube.com/watch?v=Tvu34s8iMZw&t=37s&ab_channel=CareerFoundry)**
 
-- Please, make sure that you know Dart tutorials [ Basics, Data Types, Control Flow, and Key Function ] on GeeksForGeeks:
-    
-    [https://www.geeksforgeeks.org/dart-tutorial/](https://www.geeksforgeeks.org/dart-tutorial/)
-    
+- **[WHAT IS DESIGN THINKING & WHY IS IT IMPORTANT?](https://online.hbs.edu/blog/post/what-is-design-thinking)**
 
-![Week 3 - 1](../../images/week03-content-1.png)
-
-![Week 3 - 2](../../images/week03-content-2.png)
+- **[Start photoshop course](https://www.youtube.com/playlist?list=PLZ5zEGbaMXXWsB4rL674dSs3K4B_95pOk)**
 
 
 ## Tasks:
 
-Please, solve the following problems in Dart:
-
-- [https://docs.google.com/document/d/1YwhSwoECcwXobCMF1z_VFcxpkxb69IllkSgC2unEWLg/edit?usp=sharing](https://docs.google.com/document/d/1YwhSwoECcwXobCMF1z_VFcxpkxb69IllkSgC2unEWLg/edit?usp=sharing)
-
-Please, sketch the widget trees of the following screens:
-
-- [Screen 4 ](https://www.notion.so/Screen-4-d1a3fd5ae7394ed094e9fd70a292167e)
-
-- [Screen 5](https://www.notion.so/Screen-5-5eb4ad13415344ba9734e45497ccf9f1)
+- Summarize video and aricle on miro 
+- watch first 4 videos from the course
+- provide any psd file you made from the course

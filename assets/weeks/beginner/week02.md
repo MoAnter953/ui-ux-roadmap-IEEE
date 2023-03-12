@@ -1,28 +1,15 @@
-# Week 2: Dart Basics, Exceptions & Null Safety
+# Week 2: Colors, Typography, and Color theory
 
 ## Content:
 
-- **Dart Programming Language (01 to 36):**
+ **Videos to watch:**
+ - **[Colors](https://www.youtube.com/watch?v=Co75kmQtbaA&ab_channel=FluxAcademy)**
+ -  **[Typography](https://www.youtube.com/watch?v=yAuUDyUC-GM&ab_channel=EnvatoTuts%2B)** -- **[The Psychology of Fonts](https://www.youtube.com/watch?v=6Jlo9iOZvXY&list=TLPQMTIwMzIwMjN176-gjmvSiA&index=2&ab_channel=EnvatoTuts%2B)**
+ - **[Design Thinking](https://www.youtube.com/watch?v=Tvu34s8iMZw&t=37s&ab_channel=CareerFoundry)**
     
-    *(Including video: 36- Dart Exceptions, throw, on, catch and finally (Arabic))*
-    
-    [https://youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK](https://youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
-    
-- **Null Safety:**
-    
-    [https://youtu.be/nTmCj1lpeng](https://youtu.be/nTmCj1lpeng)
-    
+  
 
 ## Tasks:
 
-Please, solve the following problems in Dart:
-
-- [https://docs.google.com/document/d/1WjyCAv8CBx2gBYfuMvDN5wiQ-eioJSiiEs9PL_u4ZkI/edit?usp=sharing](https://docs.google.com/document/d/1WjyCAv8CBx2gBYfuMvDN5wiQ-eioJSiiEs9PL_u4ZkI/edit?usp=sharing)
-
-Please, sketch the widget trees of the following screens:
-
-- [Screen 1](https://www.notion.so/Screen-1-550fb43fb6ab4b29844e0ba3ac2e1f35)
-
-- [Screen 2](https://www.notion.so/Screen-2-6d0f1fd05904460d92c8e58c090501cc)
-
-- [Screen 3](https://www.notion.so/Screen-3-02afedb04242425ab61c924159a7d322)
+- summarize every video on miro
+- download photoshop . illustrator and Figma "the version you like"

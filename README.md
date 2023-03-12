@@ -25,7 +25,7 @@ Are you ready? let's get started
 #
 ## Design newbie “6 weeks”
 #
-<img src='https://i.postimg.cc/05CR32xx/19888741.png' border='0' alt='Design newbie'/>
+<img src='https://i.postimg.cc/05CR32xx/19888741.png' alt='Design newbie'/>
 
 
 ### Objectives:

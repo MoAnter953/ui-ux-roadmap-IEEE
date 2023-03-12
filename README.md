@@ -1,5 +1,6 @@
 
 # UI UX roadmap IEEE
+the road map is not completed yet but here is the full resourses we are working with  **[Roadmap Resourses](https://ordinary-wing-9be.notion.site/UI-UX-roadmap-resources-IEEE-c2446608839345d288d3559289022e6a)**
 [![welcome-to-UIUX.png](https://i.postimg.cc/4NmKN0WK/welcome-to-UIUX.png)](https://postimg.cc/qzHB11V0)
 >UI UX design is becoming increasingly popular, and many people are trying to enter this field. Still, they really don't know how so in this team, we will walk you through the whole process of becoming a UI UX designer and help you brand yourself and land your first job. but how:
 

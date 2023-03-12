@@ -1,6 +1,6 @@
 
 # UI UX roadmap IEEE
-<img src='https://i.postimg.cc/05CR32xx/19888741.png' alt='Introduction design , Welcome to UI UX'/>
+[![19888741.png](https://i.postimg.cc/05CR32xx/19888741.png)](https://postimg.cc/0rrBKvbH)
 >UI UX design is becoming increasingly popular, and many people are trying to enter this field. Still, they really don't know how so in this team, we will walk you through the whole process of becoming a UI UX designer and help you brand yourself and land your first job. but how:
 
 ## Objectives:
